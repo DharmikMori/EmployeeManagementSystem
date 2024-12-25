@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-class EmployManagementSystem
+class EmployeeManagementSystem
 {
   public static void main(String[] args)
   {
